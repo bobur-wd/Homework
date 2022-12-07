@@ -1,0 +1,130 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Nunito", sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    width: 600px;
+    margin-top: 10px;
+    background-color: rgb(214, 231, 252);
+    border-radius: 5px;
+
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.box {
+    display: flex;
+
+}
+
+
+
+.box .btn {
+    font-size: 15px;
+    background-color: #5fcf80;
+    color: #fff;
+    height: 30px;
+    width: 30px;
+    font-size: 0.8em;
+    margin-left: 20px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+}
+
+.boxs {
+    width: 45%;
+}
+
+.boxs p {
+    font-size: 25px;
+    margin-left: 5px;
+}
+
+.label {
+    margin-bottom: 8px;
+
+}
+
+.label p {
+    margin-left: 20px;
+    padding: 8px;
+}
+
+.label .turbo {
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    font-size: 16px;
+    height: auto;
+    margin-left: 20px;
+    padding: 15px;
+    width: 93%;
+    background-color: #dadadaf5;
+    color: #a6abaf;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+.label .inputs {
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    font-size: 16px;
+    height: auto;
+    margin-left: 20px;
+    padding: 15px;
+    width: 93%;
+    background-color: #dadadaf5;
+    color: #a6abaf;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+.label .oper {
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    font-size: 16px;
+    height: auto;
+    margin-left: 20px;
+    padding: 15px;
+    width: 93%;
+    background-color: #dadadaf5;
+    color: #a6abaf;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+.brow {
+    margin-left: 20px;
+}
+
+#Under13 #Over13 {
+    width: 93%;
+    margin-left: 20px;
+    margin-bottom: 8px;
+}
+
+.button {
+    width: 93%;
+    margin-left: 20px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    padding: 20px;
+    background-color: #5fcf80;
+    border: none;
+    border-radius: 5px;
+}
+
+.button p {
+    font-size: 20px;
+    font-family: "Nunito", sans-serif;
+}

@@ -1,0 +1,125 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(251, 227, 190);
+}
+
+.box {
+    display: flex;
+    width: 1440px;
+    height: 900px;
+    Top: -513px;
+    Left: 771px;
+    margin: 0px auto;
+
+}
+
+.box .logo {
+    width: 100%;
+    height: 882px;
+    background: #FFFFFF;
+    box-shadow: -28px 0px 50.4863px rgba(209, 240, 191, 0.349);
+}
+
+.logo .logo__div {
+    width: 280px;
+    margin: 101px 22%;
+    padding-right: 0px;
+}
+
+.logo__div p {
+    margin-left: 57px;
+}
+
+.label p {
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.1556px;
+    line-height: 24px;
+}
+
+.label p {
+    margin-bottom: 10px;
+
+}
+
+.pubg {
+    width: 90%;
+    margin-left: 20px;
+    padding: 15px;
+}
+
+.pasword {
+    width: 90%;
+    margin-left: 20px;
+    padding: 15px;
+}
+
+.a__href {
+    width: 600px;
+    margin-left: 350px;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+.btn {
+    width: 90%;
+    margin-left: 20px;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 255, 0.604);
+}
+
+.btn p {
+    font-size: 20px;
+}
+
+.or {
+    width: 490px;
+    padding: 20px;
+    margin-left: 0px auto;
+}
+
+.vtn {
+    width: 90%;
+    margin-left: 20px;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+.vtn p {
+    font-style: 20px;
+}
+
+section {
+    display: flex;
+    width: 1440px;
+    margin: 0px auto;
+}
+
+.content {
+    width: 825px;
+    height: 600px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 28px 0px 50.4863px rgba(0, 0, 0, 0.17);
+}
+
+.vont {
+    width: 580px;
+    height: 600px;
+    background-color: azure;
+}
+
